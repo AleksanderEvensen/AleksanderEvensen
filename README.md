@@ -1,11 +1,12 @@
-<h1>Hi 👋, I'm Aleksander Evensen</h1>
-<h3>A developer from Norway, mostly working on frontend and backend web development.</h3>
+<img src="./assets/banner.svg" width="100%">
+<h3>I am a self-taught programmer from Norway working on all sorts of projects</h3>
 
-- 🌱 I’m currently learning **Rust, Github Actions, and wanting to learn more about CI/CD**
-
-- ⚡ Fun fact **I love space exploration and Japanese food**
+- Im currently mostly interested in systems programming with Rust, Zig, and C/C++
+- I will be working on my 📚bachelor's in systems engineering in the upcoming years.
+- I also love 🚀space exploration, FPV drone racing, and 🍣Japanese food
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
