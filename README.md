@@ -1,46 +1,47 @@
-<img src="./assets/banner.svg" width="100%">
-<h3>I am a self-taught programmer from Norway working on all sorts of projects</h3>
+<img src="./assets/banner.svg" width="100%" />
+
+## I am a self-taught programmer from Norway working on all sorts of projects
 
 - Im currently mostly interested in systems programming with Rust, Zig, and C/C++
 - I will be working on my 📚bachelor's in systems engineering in the upcoming years.
 - I also love 🚀space exploration, FPV drone racing, and 🍣Japanese food
 
-<h3 align="left">Languages and Tools:</h3>
+## Tech i know / have used:
+#### Web Technologies
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+</p>
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-  </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+#### Languages
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />
+</p>
+
+#### Tools / Other
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
 </p>
